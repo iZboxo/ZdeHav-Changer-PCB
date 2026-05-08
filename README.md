@@ -20,6 +20,8 @@ Custom toolhead board design for Klipper-based 3D printers. The board communicat
 
 ## Overview
 
+https://izboxo.github.io/ZdeHav-Changer-PCB/bom/ibom.html
+
 | Parameter | Value |
 |---|---|
 | MCU | STM32G0B1CBT6 (Cortex-M0+, 64 MHz, 128 KB Flash, LQFP-48) |
