@@ -8,14 +8,11 @@ Custom toolhead board design for Klipper-based 3D printers. The board communicat
 
 ## Photos
 
-<!-- Insert photo of the front side of the board here -->
-> 📷 **[TODO: PCB photo — front side]**
+<img width="775" height="721" alt="image" src="https://github.com/user-attachments/assets/cf425003-1f72-4b1b-8aba-2ac3d5431a16" />
 
-<!-- Insert photo of the back side of the board here -->
-> 📷 **[TODO: PCB photo — back side]**
+<img width="724" height="647" alt="image" src="https://github.com/user-attachments/assets/a506f216-4fbe-431e-9e24-2fa7718a85c5" />
 
-<!-- Insert schematic screenshot here -->
-> 📷 **[TODO: main schematic screenshot]**
+<img width="853" height="861" alt="image" src="https://github.com/user-attachments/assets/b2000acc-c9c4-4a00-93d6-e230cc35ee95" />
 
 ---
 
